@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AyushSomani001/AyushSomani001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am Ayush Somani, a final year undergraduate student at IIT ISM Dhanbad.
 
 - 🔭 I’m currently working on deep learning in nanoscopy.
