@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="gh-header-image-cropped (4).jpg" alt="Banner that says Ayush Somani- Machine Learning Enthusiast, Content Creator alongside a cartoon illustration of Ayush">
-I'm a  final year undergraduate student at IIT ISM Dhanbad who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working includes Python(Tensorflow + Keras & Pytorch), MATLAB, GraphQL, CSS. 
+I'm a final year undergraduate student at **IIT ISM Dhanbad** who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working includes Python(Tensorflow + Keras & Pytorch), MATLAB, GraphQL, CSS. 
 
 ## Updates
 - 🎓 I’m currently pursuing a major in Mathematics and Computing.
