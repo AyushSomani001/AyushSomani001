@@ -1,5 +1,5 @@
 ### <img src="Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="Assets/Earth.gif" width="24px">
-<img src="gh-header.jpg" alt="Banner that says Ayush Somani- Machine Learning Enthusiast, Content Creator alongside a cartoon illustration of Ayush"><br>
+<img src="gh-header-.jpg" alt="Banner that says Ayush Somani- Machine Learning Enthusiast, Content Creator alongside a cartoon illustration of Ayush"><br>
 I'm a final year undergraduate student at **IIT ISM Dhanbad** who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working includes Python(Tensorflow + Keras & Pytorch), MATLAB, GraphQL, CSS. 
 
 ## Updates
