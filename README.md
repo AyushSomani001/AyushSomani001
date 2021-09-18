@@ -1,10 +1,10 @@
 ### <img src="Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="Assets/Earth.gif" width="24px">
 <img src="gh-header-.jpg" alt="Banner that says Ayush Somani- Machine Learning Enthusiast, Content Creator alongside a cartoon illustration of Ayush"><br>
-I'm a final year undergraduate student at **IIT ISM Dhanbad** who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working includes Python(Tensorflow + Keras & Pytorch), MATLAB, GraphQL, CSS. 
+I'm a research fellow at **UiT Norges arktiske universitet** with Masters in Mathematics & Computing from **IIT ISM Dhanbad** who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working includes Python(Tensorflow + Keras & Pytorch), MATLAB, GraphQL, CSS. 
 
 ## Updates
-- 🎓 I’m currently pursuing a major in **Mathematics and Computing**.
-- 🔭 I’m currently working on deep learning in nanoscopy.
+- 🎓 I’m a Masters in **Mathematics and Computing**.
+- 🔭 I’m currently working on deep learning in nanoscopy and interpretability.
 - 🤔 I’m looking to collaborate a Object Localization on Video Task.
 - ⚡ Fun fact: I once wrote a piece of code that worked without any errors right away.
 - 📫 Reach out to me **@AyushSomani001** on all major social platforms.
@@ -32,7 +32,7 @@ I'm a final year undergraduate student at **IIT ISM Dhanbad** who is passionate 
 
 ## 🌱 I’m currently learning ...
 - **Computational Photography**
-- **Deep Learning**
+- **Fuzzy Deep Learning**
 <br/>
   <br/>
    
