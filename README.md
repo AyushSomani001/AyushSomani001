@@ -9,6 +9,7 @@ I'm a research fellow at **UiT Norges arktiske universitet** with Masters in Mat
 - ⚡ Fun fact: I once wrote a piece of code that worked without any errors right away.
 - 📫 Reach out to me **@AyushSomani001** on all major social platforms.
 
+- 🙋‍♂️ Pronouns: He/him
 
 ## Ask me about :computer: 
 - **Competitive Programming**
@@ -29,6 +30,11 @@ I'm a research fellow at **UiT Norges arktiske universitet** with Masters in Mat
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 <br/><br/>
+
+## I'm currently working on 🔭
+
+Ah aaaaaah (to be true, i still had to sum-up this section ;) )
+
 
 ## 🌱 I’m currently learning ...
 - **Computational Photography**
@@ -59,3 +65,11 @@ I'm a research fellow at **UiT Norges arktiske universitet** with Masters in Mat
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fayushsomani001%2F" /></p>
 <br/>
 <p>
+	
+## Best way to reach me 📫
+
+You can find and get touch with me on these accounts!
+
+[![Linkedin Badge](https://img.shields.io/badge/Ayush-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushsomani001/)
+
+[![Twitter Badge](https://img.shields.io/badge/ayush-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/AyushSomani001)
