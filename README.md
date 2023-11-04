@@ -71,7 +71,6 @@ Ah aaaaaah (to be true, i still had to sum-up this section ;) )
 You can find and get touch with me on these accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/Ayush-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushsomani001/)
-
-[![Website](https://img.shields.io/website)](www.ayushsomani.com)
-
 [![Twitter Badge](https://img.shields.io/badge/ayush-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/AyushSomani001)
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Personal_Webpage-Ayush_Somani"> [www.ayushsomani.com](https://www.ayushsomani.com/)
