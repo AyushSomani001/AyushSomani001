@@ -1,17 +1,16 @@
 ### <img src="Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="Assets/Earth.gif" width="24px">
-<img src="gh-header-.jpg" alt="Banner that says Ayush Somani- Machine Learning Enthusiast, Content Creator alongside a cartoon illustration of Ayush"><br>
-I'm a research fellow at **UiT Norges arktiske universitet** with Masters in Mathematics & Computing from **IIT ISM Dhanbad** who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working includes Python(Tensorflow + Keras & Pytorch), MATLAB, GraphQL, CSS. 
+<img src="Assets/GitHubBanner.jpg" alt="Banner that says Ayush Somani- Machine Learning Enthusiast, Content Creator alongside a cartoon illustration of Ayush"><br>
+I'm a PhD fellow at **UiT Norges arktiske universitet** with a Masters in Mathematics & Computing from **IIT ISM Dhanbad** who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
 
 ## Updates
 - 🎓 I’m a Masters in **Mathematics and Computing**.
-- 🔭 I’m currently working on deep learning in nanoscopy and interpretability.
-- 🤔 I’m looking to collaborate a Object Localization on Video Task.
+- 🔭 I’m currently working on deep learning in nanoscopy and AI interpretability.
+- 🤔 I’m looking to collaborate on LLM interpretability task.
 - ⚡ Fun fact: I once wrote a piece of code that worked without any errors right away.
 - 📫 Reach out to me **@AyushSomani001** on all major social platforms.
-
 - 🙋‍♂️ Pronouns: He/him
 
-## Ask me about :computer: 
+## Ask me about: Computer Science 
 - **Competitive Programming**
 	- Python ❤️
 	- C++
@@ -37,7 +36,8 @@ Ah aaaaaah (to be true, i still had to sum-up this section ;) )
 
 
 ## 🌱 I’m currently learning ...
-- **Computational Photography**
+- **Large Language Model Finetuning**
+- **Generative AI and Sustainability**
 - **Fuzzy Deep Learning**
 <br/>
   <br/>
@@ -71,5 +71,7 @@ Ah aaaaaah (to be true, i still had to sum-up this section ;) )
 You can find and get touch with me on these accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/Ayush-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushsomani001/)
+
+[![Website](https://img.shields.io/website)](www.ayushsomani.com)
 
 [![Twitter Badge](https://img.shields.io/badge/ayush-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/AyushSomani001)
